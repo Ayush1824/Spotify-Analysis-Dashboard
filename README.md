@@ -7,8 +7,10 @@ An end-to-end data analytics project analysing 50,000+ Spotify tracks across 10+
 ## 📊 Dashboard Preview
 
 
-> `![Dashboard Preview](screenshot.png)`
-
+![Dashboard Page 1](Screenshot 2026-06-09 150209.png)
+![Dashboard Page 2](Screenshot 2026-06-09 150226.png)
+![Dashboard Page 3](Screenshot 2026-06-09 150241.png)
+![Dashboard Page 4](Screenshot 2026-06-09 150307.png)
 ---
 
 ## 🎯 Project Objective
